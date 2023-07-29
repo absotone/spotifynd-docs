@@ -3,7 +3,7 @@ Documentation for Spotifynd
 
 Before running the project locally, you have to - 
 ## Get your spotify API credentials  
-- Log on to [Sporify Dashboard](https://developer.spotify.com/dashboard/)
+- Log on to [Spotify Dashboard](https://developer.spotify.com/dashboard/)
 - Create a new app. This should generate CLIENT_ID and CLIENT_SECRET
 - Copy and paste these into your local copy of [creds.py](https://github.com/absotone/spotifynd/blob/main/creds.py)
 
